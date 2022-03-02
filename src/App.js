@@ -9,7 +9,6 @@ function App() {
         <h1 className="font-bold text-2xl mb-2">My Portfolio</h1>
         <p className="mb-2">Click on the buttons to filter a category : </p>
       </div>
-      <Category/>
       <Gallery/>
     </div>
   );
